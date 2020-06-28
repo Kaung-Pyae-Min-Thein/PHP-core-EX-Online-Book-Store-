@@ -1,0 +1,1 @@
+This is just the exercise project to test my basic PHP skill and it won't be beautiful because there is no CSS.
